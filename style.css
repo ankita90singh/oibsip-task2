@@ -1,0 +1,453 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: oswald;
+}
+body,html{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+  
+}
+#page1{
+   
+    width: 100%;
+    height: 100vh;
+    background-color: #3B392F;
+
+}
+/* #page1 img{
+    width: 42vw;
+    */
+
+
+
+#img1{
+    width: 42vw;
+    height: 12vw;
+  margin-left: 56.85vw;
+  transition: all ease 0.5s;
+
+}
+
+#part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 17.7vw;
+    gap: 10vw;
+}
+#img2{
+    width: 48vw;
+    height: 20.5vw;
+    margin-top: 2.34vw;
+    transition: all ease 0.5s;
+ 
+}
+#rightp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3vw;
+    margin-top: 3vw;
+
+}
+#right h3{
+    /* white-space: nowrap; */
+    font-size: 2.6vw;
+    font-weight: 100;
+    color: #fff;
+    text-align: center;
+  
+}
+#line{
+    width: 10vw;
+    height: .11vw;
+    background-color: #fff;
+}
+#page1 h1{
+    margin-top: .5vw;
+    font-size: 5.5vw;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    line-height: 6vw;
+    margin-right: 17vw;
+    letter-spacing: .17vw;
+
+}
+#page1 h1:nth-child(3){
+     margin-left: 33vw;
+}
+
+#page2{
+    width: 100%;
+    height: 100vh;
+    background-color: #3B392F;
+}
+
+#page2 h1{
+   font-size: 7.5vw;
+   font-weight: 400;
+   color: #fff;
+ padding: 8vw 8vw;
+ transition: all ease 0.5s;
+
+}
+#page2 h4{
+    font-size: 1.4vw;
+    font-weight: 400;
+    letter-spacing: 1vw;
+    color: #fff;
+    margin-left: 8.5vw;
+  margin-top: -8vw;
+  transition: all ease 0.5s;
+ 
+}
+
+.page2r{
+    margin-top: 7vw;
+    margin-left: 14vw;
+}
+
+.page2r p{
+    font-size: 1.1vw;
+    font-weight: 200;
+    font-family: oswald;
+    width: 30%;
+    color: #fff;
+    transition: all ease 0.5s;
+}
+#page3{
+    width: 100%;
+    height: 100vh;
+    background-color: #3B392F;
+}
+#img3{
+    width: 47vw;
+    height: 15vw;
+    margin-top: 5vw;
+    transition: all ease 0.5s;
+}
+#page3 h1{
+    position: absolute;
+    margin-top: -6vw;
+    margin-left: 22vw;
+    font-size: 6.7vw;
+    font-weight: 400;
+    color: #fff;
+    -webkit-text-stroke: .1vw black;
+    transition: all ease 0.5s;
+    
+}
+#img4{
+    width: 22vw;
+    height: 19vw;
+    margin-top: -4vw; 
+    margin-left: 67vw;
+    transition: all ease 0.5s;
+}
+.page3r{
+    margin-top: -6vw; 
+    margin-left: -22vw;
+}
+
+.page3r p{
+    font-size: 1.1vw;
+    font-weight: 200;
+    font-family: oswald;
+    width: 22%;
+    color: #fff;
+    transition: all ease 0.5s;
+}
+#page4{
+    width: 100%;
+    height: 100vh;
+    background-color: #3B392F;
+}
+
+#img5{
+    width: 22vw;
+    height: 19vw;
+    margin-top: 2vw;
+    margin-left: 5vw;
+    transition: all ease 0.5s;
+
+   
+
+}
+#page4 h1{
+    position: absolute;
+    margin-top: -12vw;
+    margin-left: 22vw;
+    font-size: 6.7vw;
+    font-weight: 400;
+    color: #fff;
+    -webkit-text-stroke: .1vw black;
+    transition: all ease 0.5s;
+    
+}
+#path{
+    margin-top: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+}
+
+#txt{
+    text-align: center;
+    color: #fff;
+    font-family: oswald;
+}
+#txt h3{
+    font-size: 1.3vw;
+    font-weight: 400;
+    font-family: oswald;
+    width: 90%;
+    line-height: 1.8vw;
+}
+#txt h3:nth-child(2){
+ margin-top: 1vw;
+ font-size: 2vw;
+ color: plum;
+}
+#img6{
+    width: 45vw;
+    height: 13vw;
+    margin-left: 53.7vw;
+    margin-top: 4.3vw;
+    transition: all ease 0.5s;
+}
+#page5{
+    width: 100%;
+    height: 100vh;
+    background-color: #3B392F;
+}
+
+
+
+#page5 img{
+    width: 20vw;
+    height: 18vw;
+    /* margin-top: 5vw; */
+    border-radius: .3vw;
+}
+#page5 h1{
+   
+
+padding: 5vw 7vw;
+  
+    font-size: 6.7vw;
+    font-weight: 400;
+    color: #fff;
+    -webkit-text-stroke: .1vw black;
+    transition: all ease 0.5s;
+
+}
+#txtp{
+    margin-top: 2vw;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7vw;
+    color: #fff;
+}
+#txtp p{
+    width: 30%;
+    padding: 1vw 1vw;
+    border-right: .2vw solid white;
+    font-family: oswald;
+    font-weight: 400;
+    font-size: 1vw;
+    transition: all ease 0.5s;
+
+}
+#txtp ul li{
+    line-height: 2vw;
+    font-family: oswald;
+    font-weight: 400;
+    font-size: 1.3vw;
+    text-transform: uppercase;
+    transition: all ease 0.5s;
+}
+
+#txtp video{
+    width: 35%;
+    height: 35%;
+    border-radius: .4vw;
+    transition: all ease 0.5s;
+}
+
+
+#page6{
+    width: 100%;
+    height: 100vh;
+    background-color: #3B392F;
+}
+
+#page6 h1{
+   padding: 5vw 7vw;
+      
+    font-size: 6.7vw;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 1;
+    -webkit-text-stroke: .1vw black;
+    transition: all ease 0.5s;
+}
+#imgline{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5vw;
+
+}
+#imgline video{
+    width: 27%;
+    height: 29%;
+    border-radius: .4vw;
+    transition: all ease 0.5s;
+}
+.one{
+    width: 30%;
+    height: 100vh;
+}
+
+#circle{
+    width: 10vw;
+    height: 10vw;
+    border-radius: 50%;
+    background-color: transparent;
+    border: .1vw solid #ffffff3d;
+    margin-top: 3vw;
+    margin-left: 45vw;
+}
+
+#circle i{
+    font-size: 1.4vw;
+    font-weight: 600;
+    position: absolute;
+    color: #ffffff5f;
+ margin-top: 4.5vw;
+ margin-left: 4.2vw;
+ animation-name: arrow;
+ animation-direction: alternate;
+ animation-iteration-count: infinite;
+ animation-duration: 1s;
+ animation-delay: 1s;
+ animation-fill-mode: forwards;
+ 
+
+}
+
+@keyframes arrow {
+    from{
+        scale: 0;
+    }
+    to{
+        scale: 1.2;
+    }
+}
+#page7{
+    width: 100%;
+    height: 100vh;
+    background-color: #3B392F;
+}
+
+#part7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+}
+
+#page7 h1{
+    margin-top: 6vw;
+   padding: 5vw 7vw;
+      
+    font-size: 6.7vw;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 1;
+    -webkit-text-stroke: .1vw black;
+    transition: all ease 0.5s;
+}
+
+#img8{
+    margin-top: 6vw;
+    width: 25vw;
+    transition: all ease 0.5s;
+    
+}
+
+
+#continfo{
+    margin-top: 7vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7vw;
+    color: #fff;
+
+}
+#links i{
+    font-size: 2vw;
+    font-weight: 500;
+
+}
+#links a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 2.5vw;
+    font-size: 1.6vw;
+    font-weight: 400;
+    font-family: oswald;
+}
+#address h4{
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    font-family: oswald;
+
+
+}
+
+#page8{
+    width: 100%;
+    height: 100vh;
+    background-color: #3B392F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#page8 h1{
+   text-transform: uppercase;
+   -webkit-text-stroke: .1vw black;
+    font-size: 6.7vw;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 1;
+    transition: all ease 0.5s;
+}
+
+#page8 p{
+    margin-top: 1vw;
+    width: 45%;
+    text-align: center;
+    color: #fff;
+    transition: all ease 0.5s;
+}
+
+
+
+
+
+
+ 
+
